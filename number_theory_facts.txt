@@ -1,1 +1,35 @@
+1. Contiguous Integers:
+The expression n(n+1)(n+2)(n+3) + 1 results in a perfect square. This outcome is based on the product of four consecutive integers and holds true for specific values of n.
 
+2. Perfect Squares:
+For any positive integer n, the difference n^2 - (n-1)^2 = 2n - 1 represents an odd number. That is, the difference between the squares of two consecutive integers is always an odd number.
+
+3. Sum of First n Natural Numbers:
+The formula 1 + 2 + 3 + ... + n = n(n + 1)/2 denotes the sum of the first n natural numbers and can also be interpreted geometrically as the area of a trapezoid.
+
+4. Fermat's Little Theorem:
+If p is a prime number and a is an integer not divisible by p, then a^(p-1) ≡ 1 (mod p).
+
+5. Divisibility Rules:
+Divisibility rules for various numbers are very useful. For example, a number is divisible by 3 if the sum of its digits is divisible by 3.
+
+6. Goldbach's Conjecture:
+According to this conjecture, every even integer n ≥ 2 can be expressed as the sum of two prime numbers.
+
+7. Congruences:
+The expression a ≡ b (mod m) means that a and b leave the same remainder when divided by m. This concept plays a significant role in solving various number-theoretic problems.
+
+8. Chinese Remainder Theorem:
+If m1, m2, ..., mk are pairwise coprime positive integers and a1, a2, ..., ak are any integers, then the system of congruences x ≡ ai (mod mi) has a unique solution modulo M = m1 * m2 * ... * mk.
+
+9. Sum of Divisors Function:
+The function σ(n) denotes the sum of all positive divisors of a number n, and it plays an important role in various mathematical problems.
+
+10. Euler's Totient Function:
+Euler’s Totient Function is used to count the number of integers less than or equal to n that are relatively prime to n. It is particularly significant in number theory and cryptography.
+
+11. Prime Numbers:
+Product of two prime numbers always have 4 divisors.
+Example:
+6 --> 1 , 2 , 3 , 6
+15 --> 1 , 3 , 5 , 15
