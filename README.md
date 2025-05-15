@@ -25,7 +25,7 @@ Please share your fact or knowledge in the following format:
 
 ## ✅ Example
 
-1. Contiguous Integers
+1. Contiguous Integers:<br>
 The expression n(n+1)(n+2)(n+3) + 1 results in a perfect square.
 This is based on the product of four consecutive integers, and the result is always one more than their product — a perfect square for certain values of n.
 
