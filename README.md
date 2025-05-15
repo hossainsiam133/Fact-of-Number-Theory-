@@ -1,4 +1,4 @@
-# ✨ Number Theory Facts Collection 📚
+#  Number Theory Facts Collection 📚
 
 Welcome to the **Number Theory Facts Collection Repository**!  
 This is a collaborative space for sharing interesting, educational, or surprising facts and theorems from the fascinating world of **Number Theory**.
