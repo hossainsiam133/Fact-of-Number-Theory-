@@ -61,9 +61,8 @@ Euler’s Totient Function is used to count the number of integers less than or 
 
     Fun fact:- DR = remainder when the number is divided by 9 (Number % 9). [If number % 9 = 0 and 𝑛umber ≠ 0, then DR = 9.]
 
-15. Simplest rules of number theory:-
+15. Simplest but important rules of number theory:-
     - Perfect Squares Have an Odd Number of Total Divisors.
     - Any Two Consecutive Numbers are Coprime. [gcd(n,n+1)=1]
     - The Product of Two Consecutive Integers is Never a Perfect Square.
     - Any Power of an Odd Number is Odd. [odd^𝑛 = odd]
-    - 
