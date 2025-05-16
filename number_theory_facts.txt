@@ -11,7 +11,9 @@ The formula 1 + 2 + 3 + ... + n = n(n + 1)/2 denotes the sum of the first n natu
 If p is a prime number and a is an integer not divisible by p, then a^(p-1) ≡ 1 (mod p).
 
 5. Divisibility Rules:
-Divisibility rules for various numbers are very useful. For example, a number is divisible by 3 if the sum of its digits is divisible by 3.
+Divisibility rules for various numbers are very useful. 
+For example, a number is divisible by 3 if the sum of its digits is divisible by 3.
+And, A Number is Divisible by 9 if the Sum of its Digits is Divisible by 9
 
 6. Goldbach's Conjecture:
 According to this conjecture, every even integer n ≥ 2 can be expressed as the sum of two prime numbers.
@@ -28,8 +30,40 @@ The function σ(n) denotes the sum of all positive divisors of a number n, and i
 10. Euler's Totient Function:
 Euler’s Totient Function is used to count the number of integers less than or equal to n that are relatively prime to n. It is particularly significant in number theory and cryptography.
 
-11. Prime Numbers:
-Product of two prime numbers always have 4 divisors.
-Example:
-6 --> 1 , 2 , 3 , 6
-15 --> 1 , 3 , 5 , 15
+11. Prime Numbers:- 
+    A prime Number is a number that has exactly two factors- 1 and itself.
+    EX: 2, 3, 5, 7, 17, etc.
+
+    Fun fact: The product of two prime numbers always has 4 divisors.
+    Example:
+    6 --> 1, 2, 3, 6
+    15 --> 1, 3, 5, 15
+
+12. Armstrong Number:-
+    An Armstrong number is a number that is equal to the sum of its digits raised to the power of the number of digits.
+    EX: 1, 
+        153 = 1^3 + 5^3 + 3^3, 
+        1634 = 1^4 + 6^4 + 3^4 + 4^4
+
+12. If any number has only three positive divisors, then the number has to be the perfect square of a prime number.
+    EX: 4 = 2^2; Divisors of 4 = 1, 2, 4
+        25 = 5^2; Divisors of 25 = 1, 5, 25
+
+13. Palindrome Number:-
+    A palindromic number is a number that is the same as its reverse form.
+    EX: 123321, 1111, 1331, etc.
+
+14. Digital Root:-
+    The digital root of a number is the single-digit value we get by repeatedly adding the digits of a number until we reach a single digit.
+    It's also known as the digital sum or seed number.
+    EX: 221 --> 2 + 2 + 1 = 5
+        698 --> 6 + 9 + 8 = 23 --> 2 + 3 = 5
+
+    Fun fact:- DR = remainder when the number is divided by 9 (Number % 9). [If number % 9 = 0 and 𝑛umber ≠ 0, then DR = 9.]
+
+15. Simplest rules of number theory:-
+    - Perfect Squares Have an Odd Number of Total Divisors.
+    - Any Two Consecutive Numbers are Coprime. [gcd(n,n+1)=1]
+    - The Product of Two Consecutive Integers is Never a Perfect Square.
+    - Any Power of an Odd Number is Odd. [odd^𝑛 = odd]
+    - 
